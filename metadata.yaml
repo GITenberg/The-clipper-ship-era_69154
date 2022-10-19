@@ -1,0 +1,27 @@
+_repo: The-clipper-ship-era_69154
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Clark, Arthur H.
+    gutenberg_agent_id: '55134'
+    url: http://www.gutenberg.org/2009/agents/55134
+description: ''
+gutenberg_issued: '2022-10-14'
+identifiers:
+  gutenberg: '69154'
+language: en
+pgterms:marc904: https://archive.org/details/clippershiperaep00clar
+pgterms:marc905: 20200520094254clark
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Chuck Greif, deaurider and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: 'United States: G. P. Putnam''s Sons,1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The clipper ship era
+url: http://www.gutenberg.org/ebooks/69154
